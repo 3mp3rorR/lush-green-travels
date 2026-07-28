@@ -1,0 +1,1 @@
+import WhyChoose from "../components/WhyChoose";
